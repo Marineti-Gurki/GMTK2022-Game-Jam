@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/zapsplat_technology_studio_speaker_active_power_switch_click_003_68875.mp3-d2529f4ebce8fe7bef6657ce6e52f6a7.mp3str"
+
+[deps]
+
+source_file="res://zapsplat_technology_studio_speaker_active_power_switch_click_003_68875.mp3"
+dest_files=[ "res://.import/zapsplat_technology_studio_speaker_active_power_switch_click_003_68875.mp3-d2529f4ebce8fe7bef6657ce6e52f6a7.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
